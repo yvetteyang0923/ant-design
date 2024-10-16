@@ -5,7 +5,7 @@ const { SHOW_PARENT } = TreeSelect;
 
 const treeData = [
   {
-    title: 'Node1',
+    title: '增长率',
     value: '0-0',
     key: '0-0',
     children: [
@@ -17,7 +17,7 @@ const treeData = [
     ],
   },
   {
-    title: 'Node2',
+    title: '对比值',
     value: '0-1',
     key: '0-1',
     children: [
